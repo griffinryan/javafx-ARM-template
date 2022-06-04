@@ -25,8 +25,6 @@ ___
 
 > Use [Gradle](https://github.com/gradle/gradle) to build the project.
 
-    gradle build package
-    
-    JAVA_HOME=/path/to/java/16/ gradle run
+    JAVA_HOME=/path/to/java16/ gradle build run
 
 [griffinryan-github]: https://github.com/griffinryan/
